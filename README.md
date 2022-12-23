@@ -1,0 +1,2 @@
+# fristGit
+for practice
